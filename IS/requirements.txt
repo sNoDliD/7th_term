@@ -1,0 +1,4 @@
+aiogram==2.23.1
+aiohttp
+pydantic[dotenv]==1.10.2
+requests
